@@ -1,0 +1,14 @@
+name: Movie_Recommendations
+title: Movie_Recommendations
+username:
+account: haochenmiao
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9247498
+bundleId: 7304780
+url: https://haochenmiao.shinyapps.io/Movie_Recommendations/
+when: 1685939103.30944
+lastSyncTime: 1685939103.30946
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|credits.csv|Crimson Red Natural Berry Jam Label.png|Drill_down_deliverables.Rmd|Final_Deliverable.Rmd|Final.R|intro.R|movie recommendation.R|Movie_Recoomendations/app.R|Movie-Dataset-Latest.csv|README.md|summary.R|titles.csv
